@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+google-genai
+groq
+openai
+docx2txt
+pillow
+matplotlib
+numpy
+scipy
